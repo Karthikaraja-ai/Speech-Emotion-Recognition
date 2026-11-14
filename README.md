@@ -106,7 +106,7 @@ Saved model artifacts:
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Karthikaraja-ai/Speech-Emotion-Recognition.git
 cd Speech-Emotion-Recognition
 ```
 
